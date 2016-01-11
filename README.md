@@ -1,4 +1,4 @@
-## Windows-to-the-past
+# Windows-to-the-past
 ###Product
 A mobile application that utilises augmented reality (AR) to enable users to view real life locations via a smartphone or tablet camera; with an image overlay displaying that location as it was in the past. For example, a live street view with a street view overlay taken 50 years ago, enabling to use to view the changes to the street and activities being undertaken at that time.
 ###Goal
